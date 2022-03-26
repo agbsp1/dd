@@ -261,6 +261,19 @@
 	},
 	{
 		"inputs": [],
+		"name": "maxBalance",
+		"outputs": [
+			{
+				"internalType": "uint256",
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [],
 		"name": "maxMintAmount",
 		"outputs": [
 			{
@@ -543,6 +556,19 @@
 			}
 		],
 		"name": "setCost",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "uint256",
+				"name": "_maxBalance",
+				"type": "uint256"
+			}
+		],
+		"name": "setMaxBalance",
 		"outputs": [],
 		"stateMutability": "nonpayable",
 		"type": "function"
