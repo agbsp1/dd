@@ -261,19 +261,6 @@
 	},
 	{
 		"inputs": [],
-		"name": "maxBalance",
-		"outputs": [
-			{
-				"internalType": "uint256",
-				"name": "",
-				"type": "uint256"
-			}
-		],
-		"stateMutability": "view",
-		"type": "function"
-	},
-	{
-		"inputs": [],
 		"name": "maxMintAmount",
 		"outputs": [
 			{
@@ -564,19 +551,6 @@
 		"inputs": [
 			{
 				"internalType": "uint256",
-				"name": "_maxBalance",
-				"type": "uint256"
-			}
-		],
-		"name": "setMaxBalance",
-		"outputs": [],
-		"stateMutability": "nonpayable",
-		"type": "function"
-	},
-	{
-		"inputs": [
-			{
-				"internalType": "uint256",
 				"name": "_newCost",
 				"type": "uint256"
 			}
@@ -794,16 +768,10 @@
 		"type": "function"
 	},
 	{
-		"inputs": [
-			{
-				"internalType": "address",
-				"name": "to",
-				"type": "address"
-			}
-		],
+		"inputs": [],
 		"name": "withdraw",
 		"outputs": [],
-		"stateMutability": "nonpayable",
+		"stateMutability": "payable",
 		"type": "function"
 	}
 ]
