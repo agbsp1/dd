@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x9E7d49b3dCdf8eCDfa00C962c5eD9f42dDfBC1Ab",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x9E7d49b3dCdf8eCDfa00C962c5eD9f42dDfBC1Ab",
+  "CONTRACT_ADDRESS": "0xfdAbE627F86aF644378b3949473432Ad5007547F",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xfdAbE627F86aF644378b3949473432Ad5007547F",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
   },
   "NFT_NAME": "Bookshelf and Books",
   "SYMBOL": "BB",
   "MAX_SUPPLY": 150,
-  "WEI_COST": 20000000000000000,
-  "DISPLAY_COST": 0.02,
+  "WEI_COST": 80000000000000000,
+  "DISPLAY_COST": 0.8,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "tes",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
   "SHOW_BACKGROUND": true
 }
