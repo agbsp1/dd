@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0xC673C5c1292c1F32BDABCdFAbD4790a6Ac8941b5",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xC673C5c1292c1F32BDABCdFAbD4790a6Ac8941b5",
+  "CONTRACT_ADDRESS": "0x9087c7F55c4419FE17b4DFc701e2e27920d5869C",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x9087c7F55c4419FE17b4DFc701e2e27920d5869C",
   "NETWORK": {
-    "NAME": "Rinkeby",
+    "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "Bookshelf and Books",
   "SYMBOL": "BB",
   "MAX_SUPPLY": 150,
-  "WEI_COST": 80000000000000000,
-  "DISPLAY_COST": 0.08,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "1111",
