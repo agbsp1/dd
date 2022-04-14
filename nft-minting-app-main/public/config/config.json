@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0x91EC66AE9aD80DF5f687E00A067f23DDE137eD82",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x91EC66AE9aD80DF5f687E00A067f23DDE137eD82",
+  "CONTRACT_ADDRESS": "0x5f08a62e7bed58095f70fe41c066014150b41e61",
+  "SCAN_LINK": "https://etherscan.io/address/0x5f08a62e7bed58095f70fe41c066014150b41e61",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "World of Shojo 少女のメタバース",
-  "SYMBOL": "WOS",
+  "SYMBOL": "ShojoMVS",
   "MAX_SUPPLY": 23071,
   "WEI_COST": 200000000000000000,
   "DISPLAY_COST": 0.2,
